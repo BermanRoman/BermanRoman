@@ -24,11 +24,14 @@ _**P.S.** Для некоторых мастер-промтов придётся
 - **[Генератор СПИН-вопросов](https://github.com/BermanRoman/prompt-spin-questions).** Собирает готовую базу вопросов, офферов и отработок возражений под твои продажи.
 
 ### 3. Трафик-система
- 
-Контент, который приводит и прогревает аудиторию.
- 
+
+Посадочные страницы, которые прогревают аудиторию:
+
 - **[HVCO](https://github.com/BermanRoman/prompt-hvco).** Lead-magnet история, которая не выглядит рекламой и отдаёт реальную пользу.
 - **[Clip-landing](https://github.com/BermanRoman/prompt-clip-landing).** Пятистраничный лендинг-история, который ведёт читателя от боли к действию.
+
+Контент, который приводит аудиторию:
+
 - **[Instagram-карусели](https://github.com/BermanRoman/prompt-instagram-carousels).** Карусели под органический охват на холодную аудиторию.
 - **[Threads](https://github.com/BermanRoman/prompt-threads-content).** Дневной контент-план под рост подписчиков.
 - **[Коммерческие ролики](https://github.com/BermanRoman/promt-commercial-short-videos).** Продающие сценарии для коротких видео.
